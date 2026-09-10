@@ -1,0 +1,13 @@
+{
+  "name": "binance-signal-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Bot de senales (sin ejecucion de ordenes) sobre Binance Spot - EMA crossover + filtro ATR.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
